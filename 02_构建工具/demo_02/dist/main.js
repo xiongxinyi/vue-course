@@ -1,0 +1,1 @@
+(()=>{"use strict";const e={setH1(){document.body.insertAdjacentHTML("beforeend","<h1>你好WEBPACK</h1>")}};console.log("hello"),e.setH1()})();
