@@ -13,6 +13,6 @@ const vm = app.mount("#app")
 
 // 将vm设置为全局变量
 window.vm = vm
-
+window.app = app
 // createApp(App).mount('#app')
 // console.log(vm)
